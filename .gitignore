@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/
+
+# Dataset
+datasets/
+sample_submission.csv
+test_theme1_df.csv
+
+# Ignore large model if needed
+# models/
+
+.DS_Store
